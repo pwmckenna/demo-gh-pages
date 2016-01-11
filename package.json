@@ -1,0 +1,11 @@
+{
+  "name": "demo-gh-pages",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "deploy": "gh-pages -d build"
+  },
+  "devDependencies": {
+    "gh-pages": "^0.8.0"
+  }
+}
